@@ -2,7 +2,7 @@
   "name": "adopt-me",
   "version": "1.0.0",
   "description": "The Adopt Me pet adoption app",
-  "main": "src/index.html",
+  "default": "src/index.html",
   "scripts": {
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --quiet",
